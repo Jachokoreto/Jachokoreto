@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jaclyn</h1>
 <h3 align="center">A potato in 42KL, Malaysia</h3>
 
+- 👀 I’m interested in pizza
+- 🌱 I’m currently learning how to speak
+- 💞️ I’m looking to collaborate on pizza making
+- 📫 To reach me -> prepare a summoning circle with pizza in the center, sing your favourite song
+
 - 📫 How to reach me **jaclyn.tjy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
