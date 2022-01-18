@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on pizza making
 - 📫 To reach me -> prepare a summoning circle with pizza in the center, sing your favourite song
 
-- 📫 How to reach me **jaclyn.tjy@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
