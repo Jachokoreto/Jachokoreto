@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on pizza making
 - 📫 To reach me -> prepare a summoning circle with pizza in the center, sing your favourite song
 
+[![wakatime](https://wakatime.com/badge/user/d4037180-f5bc-43ec-8249-ee2f3569fcb4.svg)](https://wakatime.com/@d4037180-f5bc-43ec-8249-ee2f3569fcb4)
+
 
 
 <h3 align="left">Connect with me:</h3>
