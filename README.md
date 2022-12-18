@@ -19,7 +19,7 @@
 
 <p align="center">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=jachokoreto&show_icons=true&theme=omni&hide_border=true&locale=en&count_private=true" alt="jachokoreto" />
-  <img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com?user=Jachokoreto&theme=omni&hide_border=true" alt="jachokoreto" />
+  <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Jachokoreto&theme=omni&hide_border=true" alt="jachokoreto" />
 </p>
 
 
