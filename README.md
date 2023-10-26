@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaclyn</h1>
-<h3 align="center">A potato in 42KL, Malaysia</h3>
+<h3 align="center">Creative Developer🦄 Cadet@42KL👩‍💻 Digital Ninja🥷 Self Learner🪐</h3>
 
 - 👀 Curious about almost all tech stuffs
 - 🌱 Striving to grow more and more
